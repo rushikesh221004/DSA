@@ -6,4 +6,4 @@
 
 * Medium
 
-    3. Leetcode 34: Find First and Last Position of Element in Sorted Array ✅
+    4. Leetcode 34: Find First and Last Position of Element in Sorted Array ✅
