@@ -2,6 +2,7 @@
 * Easy
     1. LeetCode 704: Binary Search ✅
     2. LeetCode 35: Search Insert Position ✅
+    3. LeetCode 69: Sqrt(x) ✅
 
 * Medium
 
