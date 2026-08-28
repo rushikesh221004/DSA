@@ -11,3 +11,6 @@
     6. Leetcode 33: Search in Rotated Sorted Array ✅
     7. Leetcode 81: Search in Rotated Sorted Array II ✅
     8. Leetcode 153: Find Minimum in Rotated Sorted Array ✅
+
+* Hard
+    9. Leetcode 154: Find Minimum in Rotated Sorted Array II ✅
