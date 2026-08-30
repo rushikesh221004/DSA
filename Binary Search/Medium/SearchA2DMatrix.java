@@ -6,5 +6,7 @@ class SearchA2DMatrix {
             {23, 30, 34, 60}
         };
         int target = 3;
+
+        System.out.println(searchMatrix(matrix, target));
     }
 }
