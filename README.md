@@ -13,6 +13,7 @@
     8. Leetcode 153: Find Minimum in Rotated Sorted Array ✅
     9. Leetcode 74: Search a 2D Matrix ✅
     10. Leetcode 240: Search a 2D Matrix II ✅
+    11. Leetcode 875: Koko Eating Bananas ✅
 
 * Hard
 
