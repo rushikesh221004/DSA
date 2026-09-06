@@ -14,6 +14,7 @@
     9. Leetcode 74: Search a 2D Matrix ✅
     10. Leetcode 240: Search a 2D Matrix II ✅
     11. Leetcode 875: Koko Eating Bananas ✅
+    12. Leetcode 1011: Capacity To Ship Packages Within D Days ✅
 
 * Hard
 
