@@ -17,4 +17,4 @@
 
 * Hard
 
-    12. Leetcode 154: Find Minimum in Rotated Sorted Array II ✅
+    13. Leetcode 154: Find Minimum in Rotated Sorted Array II ✅
